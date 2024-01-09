@@ -1,4 +1,4 @@
-# My1stRepository
+# My1stRepositoryProject
 This is for the Test. It is also my 1st Repository.
 <br>
-Auther: Abhishek Kumar Tiwari
+Author: Abhishek Kumar Tiwari
